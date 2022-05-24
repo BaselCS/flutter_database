@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'add.dart';
-import 'db_helper.dart';
+import '../db_helper.dart';
 
 class ListScreen extends StatefulWidget {
   const ListScreen({Key? key}) : super(key: key);

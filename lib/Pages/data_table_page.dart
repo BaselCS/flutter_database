@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'add.dart';
-import 'db_helper.dart';
+import '../db_helper.dart';
 
 class DataTablePage extends StatefulWidget {
   const DataTablePage({Key? key}) : super(key: key);

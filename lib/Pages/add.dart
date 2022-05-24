@@ -1,6 +1,6 @@
 import 'data_table_page.dart';
 // import 'list.dart';
-import 'db_Helper.dart';
+import '../db_Helper.dart';
 import 'package:flutter/material.dart';
 
 class AddScreen extends StatefulWidget {
