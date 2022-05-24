@@ -1,16 +1,11 @@
 # flutter_database
-
-A new Flutter project.
+Flutter project with Database ,List page and DataTable show page 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
+Add all the fields you need by changing "TODO"
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The modle I [uesed]([url](https://www.youtube.com/watch?v=VXUgt-Z4Rhc&ab_channel=webfun))
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Very helpful [video]( https://www.youtube.com/watch?v=UpKrhZ0Hppk&t=1366s&ab_channel=JohannesMilke)
