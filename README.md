@@ -6,6 +6,6 @@ Add all the fields you need by changing "TODO"
 
 A few resources to get you started if this is your first Flutter project:
 
-The modle I [uesed]([url](https://www.youtube.com/watch?v=VXUgt-Z4Rhc&ab_channel=webfun))
+The modle I [uesed](https://www.youtube.com/watch?v=VXUgt-Z4Rhc&ab_channel=webfun)
 
 Very helpful [video]( https://www.youtube.com/watch?v=UpKrhZ0Hppk&t=1366s&ab_channel=JohannesMilke)
